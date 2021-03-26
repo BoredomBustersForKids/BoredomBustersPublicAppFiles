@@ -3,52 +3,52 @@
       {  
         "title":"Walther's Golf & Fun",  
         "description": "Free admission with a report card (any grades accepted)! Both indoor and outdoor miniature golf!",
-        "image" : "https://github.com/BoredomBustersForKids/BoredomBustersPublicAppFiles/blob/main/sports_golf.png?raw=true"
+        "image" : "https://github.com/BoredomBustersForKids/BoredomBustersPublicAppFiles/blob/main/golf.png?raw=true"
       },
       {  
-        "title":"Pete's Circus",  
-        "description": "Come see the show!",
-        "image" : "https://via.placeholder.com/150"
+        "title":"Pigeon Creek Greenway",  
+        "description": "This trail is widely accessible throughout Evansville: Parking is available at Sunset Park (Shawnee Drive near downtown along the river), at the end of 7th Avenue just south of Lloyd Expressway/State Road 62, Lamasco Park (Iowa Street near the river), nearby Garvin Park (off Main Street), and at the end of Heidelbach Avenue. Heidelbach is great location to launch a canoe!",
+        "image" : "https://github.com/BoredomBustersForKids/BoredomBustersPublicAppFiles/blob/main/canoe.png?raw=true"
       },
       {  
-        "title":"The Big Ice Rink",  
-        "description": "Come skate with us! Try not to fall",
-        "image" : "https://via.placeholder.com/150"
+        "title":"Hillside Gardens Commercial Landscaping",  
+        "description": "Both kids and adults are amazed to see magnificent live peacocks struttheir feathers! Check out Hillside Gardens Commercial Landscaping at 12100 NorthSaint Joseph Avenue on Evansville’s west side to see these unique creatures!",
+        "image" : "https://github.com/BoredomBustersForKids/BoredomBustersPublicAppFiles/blob/main/peacock.png?raw=true"
       },
       {  
-        "title":"Fourth Event",  
-        "description": "Its always a blast!",
-        "image" : "https://via.placeholder.com/150"
+        "title":"Free Jazz and Classical Concerts",  
+        "description": "Check out University of Evansville’s free Tuesday night jazz and classical concerts! The Tuesday Faculty Recital Series will entertain and amaze kids of all ages! Free to the public; 7:30 p.m., Wheeler Concert Hall.",
+        "image" : "https://github.com/BoredomBustersForKids/BoredomBustersPublicAppFiles/blob/main/music-violin.png?raw=true"
       },
       {  
-        "title":"Event Title Goes here",  
-        "description": "Event description goes here",
-        "image" : "image url goes here"
+        "title":"Youth Group",  
+        "description": "Invite a friend to join you at a local church or synagogue youth group. (See "PROGRAMS: Youth Ministries” section of this app if you are not sure where to visit.)",
+        "image" : "https://github.com/BoredomBustersForKids/BoredomBustersPublicAppFiles/blob/main/outdoors book reading literacy.png?raw=true"
       },
       {  
-        "title":"Event Title Goes here",  
-        "description": "Event description goes here",
-        "image" : "image url goes here"
+        "title":"Jaunt Along The River",  
+        "description": "Take a jaunt along the beautiful Ohio River in Newburgh or Evansville (or Wabash River). Enjoy the beautiful sunset!",
+        "image" : "https://github.com/BoredomBustersForKids/BoredomBustersPublicAppFiles/blob/main/flower-daisy.png?raw=true"
       },
       {  
-        "title":"Event Title Goes here",  
-        "description": "Event description goes here",
-        "image" : "image url goes here"
+        "title":"cMoe Children’s Museum",  
+        "description": "Visit cMoe Children’s Museum. Free admission the first Thursday of every month",
+        "image" : "https://github.com/BoredomBustersForKids/BoredomBustersPublicAppFiles/blob/main/misc-kid-braids.png?raw=true"
       },
       {  
-        "title":"Event Title Goes here",  
-        "description": "Event description goes here",
-        "image" : "image url goes here"
+        "title":"Swings! Slides! Playgrounds!",  
+        "description": "Visit any elementary school after hours or during the summer months. Enjoy the swings! Play on the slides! Try a different playground every weekend! (Check out the local parks listed in the “Outdoor” section of this Boredom Busters for Kids app.)",
+        "image" : "https://github.com/BoredomBustersForKids/BoredomBustersPublicAppFiles/blob/main/swing.png?raw=true"
       },
       {  
-        "title":"Event Title Goes here",  
-        "description": "Event description goes here",
-        "image" : "image url goes here"
+        "title":"Calling All Animal Lovers",  
+        "description": "Go hang out for an hour or so at an area humane society. Pick a kitten or puppy to play with inside. Walk a dog in the enclosed area outside.",
+        "image" : "https://github.com/BoredomBustersForKids/BoredomBustersPublicAppFiles/blob/main/-puppy-dog-girl-smile.png?raw=true"
       },
       {  
-        "title":"Event Title Goes here",  
-        "description": "Event description goes here",
-        "image" : "image url goes here"
+        "title":"Event Indoor Play Areas!",  
+        "description": "Visit the Chic-Fil-A or Pizza Hut indoor play area. Most area libraries and Eastland Mall also have play areas for younger kids. This is an especially good option during the cold weather months.",
+        "image" : "https://github.com/BoredomBustersForKids/BoredomBustersPublicAppFiles/blob/main/play-area.png?raw=true"
       }
     ]
 }
