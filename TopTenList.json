@@ -17,7 +17,7 @@
       },
       {  
         "title":"Free Concerts",  
-        "description": "Check out University of Evansville’s free Tuesday night jazz and classical concerts! The Tuesday Faculty Recital Series will entertain and amaze kids of all ages! Free to the public; 7:30 p.m., Wheeler Concert Hall.",
+        "description": "Check out University of Evansville’s free Tuesday night jazz and classical concerts! The Tuesday Faculty Recital Series will entertain and amaze kids of all ages! Free to the public. Wheeler Concert Hall.",
         "image" : "https://github.com/BoredomBustersForKids/BoredomBustersPublicAppFiles/blob/main/music-violin.png?raw=true"
       },
       {  
@@ -47,7 +47,7 @@
       },
       {  
         "title":"Event Indoor Play Areas!",  
-        "description": "Visit the Chic-Fil-A or Pizza Hut indoor play area. Most area libraries and Eastland Mall also have play areas for younger kids. This is an especially good option during the cold weather months.",
+        "description": "Visit the Chic-Fil-A or Pizza Hut indoor play area. Most area libraries and Eastland Mall also have play areas for younger kids.",
         "image" : "https://github.com/BoredomBustersForKids/BoredomBustersPublicAppFiles/blob/main/play-area.png?raw=true"
       }
     ]
