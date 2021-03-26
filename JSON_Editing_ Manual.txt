@@ -31,7 +31,7 @@ Before adding an image make a note of its name.
 To add an image drag and drop it on the GitHub web page and click the "Commit changes" button on the bottom left.
 After adding the image it should appear in the list of files on the GitHub repository.
 Click on the image file's name, this will take you to a page showing the image.
-Go to the top of the webpage and copy the ULR.
+Go to the top of the webpage and copy the URL.
 It should look something like "https://github.com/BoredomBusters/BoredomBustersPublicAppFiles/blob/main/YourImageName.png"
 Paste the URL into the image url section of the JSON for the cell you want to edit
 
