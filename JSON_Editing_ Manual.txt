@@ -58,7 +58,7 @@ Example JSON:
       {  
         "title":"Walther's Golf & Fun",  
         "description": "Free admission with a report card (any grades accepted)! Both indoor and outdoor miniature golf!",
-        "image" : "https://via.placeholder.com/150"
+        "image" : "https://github.com/BoredomBustersForKids/BoredomBustersPublicAppFiles/blob/main/sports_golf.png?raw=true"
       },
       {  
         "title":"Pete's Circus",  
